@@ -12,3 +12,11 @@ var x = 10;
 console.log("var x : " + x);
 x = 15;
 console.log("var new x : " + x);
+
+// const we can`t re-assign
+const pi = 3.14;
+console.log("output :" + pi);
+
+pi = 14;
+// we will get error
+console.log(pi);

@@ -17,7 +17,7 @@ console.log("var new x : " + x);
 const pi = 3.14;
 console.log("output :" + pi);
 
-pi = 14;
+// pi = 14;
 // we will get error
 console.log(pi);
 
